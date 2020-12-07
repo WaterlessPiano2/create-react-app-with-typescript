@@ -183,13 +183,12 @@ const programsList = {
   ],
   headers: [
     { field: "id", hide: true },
-    { field: "node", headerName: "Node", width: 200 },
-    { field: "status", headerName: "Status", width: 200 },
-    { field: "restarts", headerName: "Restarts", width: 200 },
-    { field: "age", headerName: "Age", width: 200 },
-    { field: "cpu", headerName: "CPU(cores)", width: 200 },
-    { field: "memory", headerName: "Memory(bytes)", width: 200 },
-    { field: "age", headerName: "Age", width: 200 },
+    { field: "node", headerName: "Node", width: 150 },
+    { field: "status", headerName: "Status", width: 150 },
+    { field: "restarts", headerName: "Restarts", width: 150 },
+    { field: "age", headerName: "Age", width: 150 },
+    { field: "cpu", headerName: "CPU(cores)", width: 150 },
+    { field: "memory", headerName: "Memory(bytes)", width: 150 },
   ],
 };
 
