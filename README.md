@@ -1,13 +1,8 @@
-# Create React App example with TypeScript
+# Create React App example with TypeScript and Material UI 
+
+This is a [Material UI boilerplate](https://github.com/mui-org/material-ui/tree/master/examples/create-react-app-with-typescript). I chose this as it has most of my the librarys I wanted to use, pre installed and configured.
 
 ## How to use
-
-Download the example [or clone the repo](https://github.com/mui-org/material-ui):
-
-```sh
-curl https://codeload.github.com/mui-org/material-ui/tar.gz/master | tar -xz --strip=2 material-ui-master/examples/create-react-app-with-typescript
-cd create-react-app-with-typescript
-```
 
 Install it and run:
 
@@ -22,4 +17,4 @@ or:
 
 ## The idea behind the example
 
-This example demonstrates how you can use [Create React App](https://github.com/facebookincubator/create-react-app) with [TypeScript](https://github.com/Microsoft/TypeScript).
+This example demonstrates how you can use [Create React App](https://github.com/facebookincubator/create-react-app) with [TypeScript](https://github.com/Microsoft/TypeScript) and [Material UI](https://github.com/mui-org/material-ui).
